@@ -6,6 +6,8 @@ Introduction
 
 The Parallax component is a custom-built React component designed to create a visually stunning parallax effect in your application. This guide will walk you through the steps to set up and implement the Parallax component in your own application.
 
+![multilayered parallax example](public/multilayered-parallax-example.gif)
+
 Prerequisites
 -------------
 
