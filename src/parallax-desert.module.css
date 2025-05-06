@@ -1,0 +1,84 @@
+/* @scope (#multi-layered-parallax-desert-body) to (#end-scoped-css-parallax-desert) { */
+html.desert,body.desert {
+    padding: 0;
+    /* margin-right: -30%;
+    margin-top: -30%; */
+    position: relative;
+    overflow: hidden; /* Hide scrollbars */
+  }
+  div.desert {
+    top: 0;
+    left: 0;
+    position: relative;
+  }
+  .desert {
+    top: 0;
+    left: 0;
+    position: relative;
+  }
+  img.desert {
+    max-width: 120%;
+    position: relative;
+    top: 50%;
+    left: 50%;
+  }
+  .bg1.desert {
+    max-width: 110%;
+    position: relative;
+    background-image: url("http://localhost:3000/canvas/ui/desert/jpg/images/wallpaper-desert-sunset-3k-1.png");
+    background-repeat: no-repeat;
+    top: 0;
+    left: 0;
+  }
+  .bg2.desert {
+    max-width: 110%;
+    position: relative;
+    background-image: url("http://localhost:3000/canvas/ui/desert/jpg/images/wallpaper-desert-sunset-3k-2.png");
+    background-repeat: no-repeat;
+    top: 0;
+    left: 0;
+  }
+  .bg3.desert {
+    max-width: 110%;
+    position: relative;
+    background-image: url("http://localhost:3000/canvas/ui/desert/jpg/images/wallpaper-desert-sunset-3k-3.png");
+    background-repeat: no-repeat;
+    top: 0;
+    left: 0;
+  }
+  .bg4.desert {
+    max-width: 110%;
+    position: relative;
+    background-image: url("http://localhost:3000/canvas/ui/desert/jpg/images/wallpaper-desert-sunset-3k-4.png");
+    background-repeat: no-repeat;
+    top: 0;
+    left: 0;
+  }
+  .bg5.desert {
+    max-width: 110%;
+    position: relative;
+    background-image: url("http://localhost:3000/canvas/ui/desert/jpg/images/wallpaper-desert-sunset-3k-5.png");
+    background-repeat: no-repeat;
+    top: 0;
+    left: 0;
+  }
+  .bg6.desert {
+    max-width: 110%;
+    position: relative;
+    background-image: url("http://localhost:3000/canvas/ui/desert/jpg/images/wallpaper-desert-sunset-3k-6.png");
+    background-repeat: no-repeat;
+    top: 0;
+    left: 0;
+  }
+  a.desert {
+    position: fixed;
+    top: 2em;
+    left: 2em;
+    z-index: 99999;
+    text-decoration: none;
+    color: #FFF;
+    padding: .5em;
+    font-family: arial;
+    border: 2px solid #FFF;
+  }
+/* } */
